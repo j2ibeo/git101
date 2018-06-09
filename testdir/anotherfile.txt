@@ -1,1 +1,3 @@
 Another file added
+This is another line
+Also another
