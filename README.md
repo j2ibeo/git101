@@ -1,6 +1,6 @@
 # Git101
 
-Git101 repo is just a review and matery of git workflow...
+Git101 repo is just a review and mastery of git workflow...
 
 # Lessons:
 
